@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "description": "Delicious cheese pizza",
+      "recipe": "1. Prepare dough. 2. Add sauce and cheese. 3. Bake in oven."
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "description": "Juicy beef burger",
+      "recipe": "1. Grill the beef patty. 2. Assemble with bun, lettuce, and tomato. 3. Serve with fries."
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "description": "Creamy Alfredo pasta",
+      "recipe": "1. Cook pasta. 2. Prepare Alfredo sauce. 3. Mix pasta with sauce and serve."
+    }
+  ]
+}

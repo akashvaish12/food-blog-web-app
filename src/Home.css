@@ -1,0 +1,59 @@
+.Home {
+    text-align: center;
+  }
+  
+  .Home-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .Home ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Home li {
+    background: #f4f4f4;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+  }
+  
+  .Home li:hover {
+    background: #e2e2e2;
+    color: #333;
+  }
+  
+  .Home a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .Home h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333; /* Dark color for food item name */
+  }
+  
+  .Home p {
+    margin: 10px 0 0;
+    font-size: 1em;
+    color: #555; /* Dark color for food item description */
+  }
+  
+  .details-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #0077B5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .details-button:hover {
+    background-color: #005f8b;
+  }
